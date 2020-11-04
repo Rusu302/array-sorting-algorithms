@@ -4,6 +4,6 @@ static void sort(void){
 	// TODO
 }
 
-int main(){
+int main() {
 	return 0;
 }
